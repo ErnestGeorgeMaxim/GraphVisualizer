@@ -16,7 +16,7 @@ int main() {
         return -1;
     }
 
-    Graph graph(window, font, "D:/clion_projects/GraphVisualizerr/adjacency_matrix.txt");
+    Graph graph(window, font, "../GraphVisualizer/adjacency_matrix.txt");
 
     Node* draggedNode = nullptr;
     Node* selectedNode = nullptr;
