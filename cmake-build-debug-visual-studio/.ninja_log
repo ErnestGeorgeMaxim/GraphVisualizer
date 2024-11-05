@@ -1,0 +1,5 @@
+# ninja log v6
+2	180	7521487483124264	build.ninja	365e83ca152dd800
+3	718	7514753996500013	CMakeFiles/GraphVisualizerr.dir/main.cpp.obj	e30c56be6c1d8176
+835	1052	7519070235563926	GraphVisualizerr.exe	1dde329551bfb581
+21	834	7519070227430109	CMakeFiles/GraphVisualizerr.dir/src/main.cpp.obj	1faccfe69abb0f
